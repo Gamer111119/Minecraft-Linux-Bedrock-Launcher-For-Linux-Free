@@ -28,13 +28,13 @@ Debian or Ubuntu
 
 	sudo apt-get install git -y && cd ~ && git clone https://github.com/Parindraa/Minecraft-Bedrock-Launcher-Linux-For-Free.git && cd Minecraft-Bedrock-Launcher-Linux-For-Free && cp ~/Downloads/Minecraft.AppImage ~/Minecraft-Bedrock-Launcher-Linux-For-Free/ && chmod +x debinstall.sh && ./debinstall.sh
 
-You are not done yet, you have to sign in to your google account and then close the launcher. Open up the terminal and enter the following command.
+You are done yet, you have to sign in to my account and then close the launcher. Open up the terminal and enter the following command.
 
         cp ~/Downloads/1.16.221-x86_64.zip ~/.local/share/mcpelauncher/versions/
 
 Press next and then click integrate and run.
 
-Then start the minecraft launcher and then click the pen button on the bottom left of the screen
+Then start minecraft launcher and then click the pen button on the bottom left of the screen
 And then select the minecraft versions, click x86 Installed. Then you can run the game.
 
 If there is any bugs report one to me. I'll fix it.
